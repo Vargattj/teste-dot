@@ -1,0 +1,6 @@
+[submodule "gulp-dot"]
+	path = gulp-dot
+	url = https://github.com/Vargattj/gulp-dot
+[submodule "react-dot"]
+	path = react-dot
+	url = https://github.com/Vargattj/teste-dot
