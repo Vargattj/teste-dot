@@ -3,4 +3,4 @@
 	url = https://github.com/Vargattj/gulp-dot
 [submodule "react-dot"]
 	path = react-dot
-	url = https://github.com/Vargattj/teste-dot
+	url = https://github.com/vargattj/react-dot
